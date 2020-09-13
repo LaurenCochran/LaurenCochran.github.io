@@ -2,6 +2,7 @@ body{
     background: url("lacf66BackgroundImage.jpg");
 }
 
-#header{
+#banner{
     background-color: #f7da9c;
+    width:100%;
 }
