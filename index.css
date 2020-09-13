@@ -29,4 +29,5 @@ body{
 #pic{
     width:200px;
     height:200px;
+    transition: transform .2s ease-in-out;
 }
