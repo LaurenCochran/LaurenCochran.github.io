@@ -34,8 +34,8 @@ body{
     animation-timing-function: linear;
 }
 @keyframes star_move {
-    from {left: 20%;}
-  to {left: 60%;}
+    from {left: 300px;}
+  to {left: 700px;}
   }
 
   #description{
