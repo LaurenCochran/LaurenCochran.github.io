@@ -31,7 +31,7 @@ body{
     height:200px;
     position: relative;
   animation-name: star_move;
-  animation-duration: 10s;
+  animation-duration: 5s;
 }
 @keyframes star_move {
     0%   {left:0px; top:0px;}
