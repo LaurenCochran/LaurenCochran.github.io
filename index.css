@@ -31,19 +31,18 @@ body{
     animation-name: star_move;
     animation-duration: 5s;
     animation-iteration-count: infinite;
+    animation-timing-function: linear;
 }
 @keyframes star_move {
-    0%   {left:0px; top:0px;}
-    25%  {left:200px; top:0px;}
-    50%  {left:400px; top:0px;}
-    75%  {left:600px; top:0px;}
-    100% {left:800px; top:0px;}
+    from {left: 0px;}
+  to {left: 1300px;}
   }
 
   #description{
-      margin-top:100px;
+      margin-top:50px;
       height:300px;
       width: 300px;
+      margin-left:35%;
       background-color: #f7da9c;
       border: 2px solid white;
       border-radius: 25px;
