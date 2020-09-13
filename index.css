@@ -23,7 +23,7 @@ body{
 #star{
     width:200px;
     height:200px;
-    margin-left:200px;
+    margin-left:800px;
 }
 #pic{
     width:200px;
@@ -35,7 +35,7 @@ body{
 }
 @keyframes star_move {
     from {left: 300px;}
-  to {left: 700px;}
+  to {left: 800px;}
   }
 
   #description{
