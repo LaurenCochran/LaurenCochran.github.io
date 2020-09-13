@@ -34,14 +34,14 @@ body{
     animation-timing-function: linear;
 }
 @keyframes star_move {
-    from {left: 200px;}
-  to {left: 600px;}
+    from {left: 20%;}
+  to {left: 60%;}
   }
 
   #description{
       margin-top:50px;
       height:300px;
-      width:50%;
+      width:60%;
       margin-left:20%;
       background-color: #f7da9c;
       border: 2px solid white;
