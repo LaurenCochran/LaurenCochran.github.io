@@ -23,7 +23,6 @@ body{
 #star{
     width:200px;
     height:200px;
-    background:url("star.png");
     border: 3px solid white;
 }
 #pic{
