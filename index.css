@@ -37,12 +37,12 @@ body{
     25%  {left:250px; top:0px;}
     50%  {left:500px; top:0px;}
     75%  {left: 750px; top:0px;}
-    100% {left:1000px; top:0px;}
+    100% {left:950px; top:0px;}
   }
 
   #description{
       margin-top:50px;
-      height:300px;
+      height:400px;
       width:60%;
       margin-left:20%;
       background-color: #f7da9c;
