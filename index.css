@@ -13,6 +13,6 @@ body{
 #header{
     font-family: 'Chewy', cursive;
     color:white;
-    text-shadow: 1px 1px solid black;
-    margin-top:10px;
+    text-shadow: 1px solid black;
+    padding-top:10px;
 }
