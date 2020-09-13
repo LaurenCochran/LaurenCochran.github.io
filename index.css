@@ -35,7 +35,7 @@ body{
 }
 @keyframes star_move {
     from {left: 250px;}
-  to {left: 800px;}
+  to {left: 1100px;}
   }
 
   #description{
