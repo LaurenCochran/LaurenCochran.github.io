@@ -1,6 +1,8 @@
 body{
     background: url("lacf66BackgroundImage.jpg");
     margin:0;
+    padding:0;
+    outline:0;
 }
 
 #banner{
@@ -15,5 +17,5 @@ body{
     color:white;
     text-shadow: 1px 1px black;
     padding-top:10px;
-    background-color: #f7da9c;
+
 }
